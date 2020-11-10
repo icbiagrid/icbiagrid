@@ -1,4 +1,4 @@
-### Comming soon
+### Coming soon
 
 <!--
 **icbiagrid/icbiagrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
